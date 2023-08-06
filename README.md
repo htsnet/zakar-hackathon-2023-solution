@@ -32,8 +32,10 @@ python -m venv .venv
 .venv\Scripts\activate  
 pip install -r requirements.txt
 
-create a file ".env" e fill the variables:
-HOST=< host memphis >
-USER=< user memphis >
-PWD=< password memphis >
-ID=< id memphis >
+create a file ".env" e fill the variables:  
+HOST=< host memphis >  
+USER=< user memphis >  
+PWD=< password memphis >  
+ID=< id memphis >  
+
+run python prediction.py --> it will read the new messages from sensors and it will produce alert messages in case of firewood
