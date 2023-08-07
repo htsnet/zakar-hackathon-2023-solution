@@ -1,4 +1,5 @@
 **Save Zakar Hackathon 2023** 
+August/2023   
 https://github.com/memphisdev/save-zakar-hackathon   
 Promoted by Memphis, in collaboration with Streamlit & Supabase
 
@@ -16,10 +17,7 @@ Krishna Lodha
 https://www.linkedin.com/in/krishnaglodha/     
 
 
-August/2023
-
-**Reference** 
-The story:
+**The story** 
 Wildfires wreak havoc every year.
 They take human and animal lives. They destroy agricultural and industrial crops and cause famines.
 They damage the environment, contribute to global warming, and generate smoke that pollutes the air.
@@ -32,7 +30,6 @@ In this hackathon, you are going to build a wildfire early warning system for th
 2 - Model for early alarm
 
 **Preparing the environment** 
-
 python -m venv .venv  
 .venv\Scripts\activate  
 pip install -r requirements.txt
