@@ -8,8 +8,13 @@ Let's help them build an early warning system and save lives and earth!
 ![Alt text](image.png)
 
 **Team**   
-Hamilton Tenório da Silva  https://www.linkedin.com/in/hamiltontenoriodasilva/   
-Krishna Lodha  https://www.linkedin.com/in/krishnaglodha/     
+Hamilton Tenório da Silva  
+https://www.linkedin.com/in/hamiltontenoriodasilva/    
+https://github.com/htsnet
+
+Krishna Lodha  
+https://www.linkedin.com/in/krishnaglodha/     
+
 
 August/2023
 
@@ -38,4 +43,4 @@ USER=< user memphis >
 PWD=< password memphis >  
 ID=< id memphis >  
 
-run python prediction.py --> it will read the new messages from sensors and it will produce alert messages in case of firewood
+run python prediction.py --> it will read the new messages of each new day from sensors and it will produce alert messages in case of firewood
