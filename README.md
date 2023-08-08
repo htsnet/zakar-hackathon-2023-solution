@@ -8,14 +8,10 @@ Let's help them build an early warning system and save lives and earth!
 
 ![Alt text](image.png)
 
-**Team**   
+**Participant**   
 Hamilton Tenório da Silva  
 https://www.linkedin.com/in/hamiltontenoriodasilva/    
 https://github.com/htsnet
-
-Krishna Lodha  
-https://www.linkedin.com/in/krishnaglodha/     
-
 
 **The story** 
 Wildfires wreak havoc every year.
