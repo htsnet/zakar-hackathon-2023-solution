@@ -116,7 +116,7 @@ async def main():
             print(e)
             
         # run only if there is records to be treated
-        if len(df_sensors) = 900:    
+        if len(df_sensors) == 900:    
             df_sensors = df_sensors.reset_index(drop=True)
             # update df_base with the new sensors of the date -1 (actual)
             for i, row in df_sensors.iterrows():
